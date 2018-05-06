@@ -1,0 +1,18 @@
+#chineseStacker {
+    position: relative;
+}
+.chineseStacker_vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin:0px 10px;
+}
+.chineseStacker_row-center {
+    text-align:center;
+}
+.chineseStacker_backgroundImage{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
